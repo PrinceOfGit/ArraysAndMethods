@@ -73,18 +73,18 @@
 //let array_4 = [];
 
 //function Random_numbers(a, b) {
-    //for (let i = 0; i < 100; i++) {
-        //let q = Math.round(Math.random() * 100)
-        //if (q > a && q < b) {
-            //array_4.push(q)
-        //}
-    //}
+//for (let i = 0; i < 100; i++) {
+//let q = Math.round(Math.random() * 100)
+//if (q > a && q < b) {
+//array_4.push(q)
+//}
+//}
 //}
 
 //Random_numbers (20, 45)
 
 //array_4 = array_4.filter(function hello (x) {
-    //return x % 2 === 0
+//return x % 2 === 0
 //})
 
 //console.log(array_4)
@@ -109,17 +109,16 @@
 //console.log (array_string)
 
 
-
 //Створити функцію конструктор для об'єктів User з полями id, name, surname , email, phone
 
 //class User {
-    //constructor(id, name, surname, email, phone) {
-        //this.id = id;
-        //this.name = name;
-        //this.surname = surname;
-        //this.email = email;
-        //this.phone = phone;
-    //}
+//constructor(id, name, surname, email, phone) {
+//this.id = id;
+//this.name = name;
+//this.surname = surname;
+//this.email = email;
+//this.phone = phone;
+//}
 //}
 
 //const Gregory = new User(1, 'Gregory', 'Sanders', 'Sanders25@gmail.com', +1456789063);
@@ -136,14 +135,13 @@
 //console.log(Gregory, John, Max, Sheldon, Peter, Patricia, Anna, Beth, Lina, Andres)
 
 
-
 //створити пустий масив, наповнити його 10 об'єктами new User(....)
 
 //let user_array = [];
 //function user_add () {
-    //for ( let i = 0; i < 1; i++) {
-        //user_array.push(Gregory, John, Max, Sheldon, Peter, Patricia, Anna, Beth, Lina, Andres)
-    //}
+//for ( let i = 0; i < 1; i++) {
+//user_array.push(Gregory, John, Max, Sheldon, Peter, Patricia, Anna, Beth, Lina, Andres)
+//}
 //}
 
 //user_add()
@@ -152,13 +150,8 @@
 
 //Взяти масив цей  User[] та: Відфільтрувати , залишивши тільки об'єкти з парними id (filter) та Відсортувати його по id. по зростанню (sort)
 
-//user_array.filter(function hello_2 (x) {
-    //x = this.id
-    //return x % 2 === 0
 
-//})
 
-//console.log(user_array)
 
 
 
